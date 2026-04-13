@@ -25,6 +25,7 @@ modules:
     install:
       - micro
       - starship
+      - fastfetch
     remove:
       # example: removing firefox (in favor of the flatpak)
       # "firefox" is the main package, "firefox-langpacks" is a dependency
@@ -36,6 +37,7 @@ modules:
     system:
       # If no repo information is specified, Flathub will be used by default
       install:
+        - com.brave.Browser
         - org.mozilla.firefox
         - org.gnome.Loupe
       remove:

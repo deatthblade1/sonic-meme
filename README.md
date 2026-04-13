@@ -17,6 +17,13 @@ In today’s world, the need for specialized operating systems is growing. Sonic
 - **Linux-based**: Built on a strong foundation of the Linux operating system.
 - **OCI-compliant**: Fully compliant with Open Container Initiative standards.
 
+### 🛠 Pre-installed Tools
+
+This image comes pre-configured with modern CLI tools for a "Modern Black" terminal experience:
+- **Starship**: The minimal, blazing-fast, and infinitely customizable prompt.
+- **Micro**: An intuitive terminal-based text editor.
+- **Fastfetch**: A maintained, feature-rich alternative to neofetch.
+
 ## 🛠 Installation
 
 To get started with Sonic Meme, follow the steps below:
