@@ -1,3 +1,19 @@
 cosign.key
 cosign.private
 /Containerfile
+
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Build Artifacts (Specific to BlueBuild/OCI)
+*.iso
+*.tar.gz
+outputs/
